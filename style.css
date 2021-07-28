@@ -1,0 +1,180 @@
+.Footer_footer_1{
+    background-color: #071652;
+    color: #dce4ec;
+    font-size: 14px;
+
+}
+.footer_link_list{
+    list-style: none;
+    line-height: 40px;
+}
+ul{
+    display: list-item;
+    text-align: -webkit-match-parent;
+    padding: 0px;
+    margin: 0px;
+    color: #dce4ec;
+}
+.footer_hiring{
+    border-radius: 5px;
+}
+
+.fa
+{
+    margin-left: 10px;
+    height: 10px;
+    color: white;
+}
+.footer-socialicon-wrapper
+{
+    height: 50px;
+    width: 100%;
+    
+    
+}
+.footer-icon-container{
+    background-color:#303d6e;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    border-radius: 10px;
+}
+h4{
+    color: #e8e8e8;
+    font-size: 16px;
+    font-weight:bold;
+}
+a{
+    color: #dce4ec;
+} 
+a:hover{
+    text-decoration: underline;
+    color: #dce4ec;
+}
+.form_wrapper{
+    border:1px solid white;
+    border-radius: 10px;
+    
+    
+}
+.element-wrapper
+{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+}
+.btnn-custom
+{
+    align-self: center;
+    height: 35px;
+    width:150px;
+    border-radius: 5px;
+    
+    
+}
+.input-custom{
+    background-color: transparent;
+    border: 0px solid;
+    color: white;
+    width: 200px;
+    align-self: center;
+}
+.form_wrapper:hover{
+    border-color: rgba(0, 0, 255, 0.918)
+}
+input:focus
+{
+    outline: none;
+}
+.footer-divider
+{
+    border-color:#aaadaf;
+    margin: 10px;
+    
+
+}
+.Most-searched-links 
+{
+    display: flex;/*flex is responsive*/
+    justify-content: center;
+}
+
+.set-position
+{  
+   font-size: 15px;
+   font-style: bold;
+   color: white;
+   
+}
+
+.online-list 
+{ 
+    list-style: none; 
+    line-height: 40px;  
+    font-size: 15px;
+    color:#aaadaf ;
+}
+.online-list li
+{
+   display: inline-block;
+   width: 25%;
+   line-height: 14px;
+}
+
+.nav-item
+{
+    font-size: 15px;
+    width: 100%;
+    height: 30px;
+    
+}
+.nav-item:hover
+{
+    text-decoration: underline;
+   
+}
+.nav-item:focus
+{
+    background-color: rgba(0, 0, 255, 0.856);
+    border-radius: 7px;
+}
+.booking-heading
+{
+    color:#838485;
+}
+.content
+{
+    color:#aaadaf ;
+}
+.madein-india
+{
+    background-color:#303d6e ;
+    border-radius: 5px;
+    font-size:17px;
+    font-weight:normal;
+    padding: 3px;
+    
+}
+@media screen and (max-width:576px)
+{
+    .madein-india
+    {
+        display: flex;
+        justify-content: center;
+    
+    }
+}
+@media screen and (max-width:576px)
+{
+    .copytirght
+    {
+        display: flex;
+        justify-content: center;
+        font-size: 10px;
+    
+    }
+}
+
+
+    
