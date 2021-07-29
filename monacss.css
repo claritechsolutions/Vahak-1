@@ -1,0 +1,46 @@
+.navbar-nav {
+    margin-left: auto;
+    font-size: 18px;
+
+    
+}
+.header_style{
+    background-color:#115cfa!important;
+    color:#f8f9fa;
+    height: 600px;
+    padding-left: 96Px;
+}
+
+.imgHeader
+{
+    position: absolute;
+    top: 95px;
+    right: 0px;
+}
+.Landing_text {
+    font-size: 50px;
+    line-height: 64px;
+}
+
+.Landing_textp {
+    font-size: 24px;
+    line-height: 36px;
+}
+.navmenuColor{
+   color: hsla(0,0%,100%,.9)!important;
+}
+.linkbutton
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(15, 83, 251);
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+    height: 60px;
+    width: 190px;
+    display: block;
+    margin-top: 40px;
+    line-height: 32px;
+    font-weight: bold;
+    border-radius: 5px;
+}
