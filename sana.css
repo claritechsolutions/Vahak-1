@@ -1,0 +1,17 @@
+body {
+    background-color: #2661f1;
+}
+
+h1 {
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+p {
+    font-size: 30px;
+}
+
+#demo{
+    font-size: 25px;
+    margin:20px;
+}
